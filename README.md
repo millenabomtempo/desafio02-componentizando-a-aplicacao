@@ -28,9 +28,6 @@ $ git clone https://github.com/millenabomtempo/desafio02-reactjs-componentizando
 # Install dependencies
 $ yarn install or npm install
 
-# Run application
-$ yarn dev or npm run dev
-
 # Run backend aplication
 $ yarn server or npm run dev
 
