@@ -29,7 +29,7 @@ $ git clone https://github.com/millenabomtempo/desafio02-reactjs-componentizando
 $ yarn install or npm install
 
 # Run backend aplication
-$ yarn server or npm run dev
+$ yarn server or npm run server
 
 # The server will init at port:3333 - access http://localhost:3333
 
